@@ -1,0 +1,5 @@
+*.swp
+*.jpg
+*.dng
+*.dng.gz
+.DS_Store
